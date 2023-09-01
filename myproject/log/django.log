@@ -1,0 +1,48 @@
+INFO 2023-08-31 15:28:36,716 autoreload 3900 11356 Watching for file changes with StatReloader
+INFO 2023-08-31 15:28:41,449 views 3900 16544 index page log
+INFO 2023-08-31 15:28:41,518 basehttp 3900 16544 "GET / HTTP/1.1" 200 40
+WARNING 2023-08-31 15:28:41,694 log 3900 16544 Not Found: /favicon.ico
+WARNING 2023-08-31 15:28:41,704 basehttp 3900 16544 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2023-08-31 16:13:15,135 autoreload 7396 5896 Watching for file changes with StatReloader
+INFO 2023-08-31 16:13:49,100 autoreload 20744 9472 Watching for file changes with StatReloader
+INFO 2023-08-31 16:15:29,293 autoreload 20744 9472 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\seminar_1\views.py changed, reloading.
+INFO 2023-08-31 16:15:29,900 autoreload 14900 11844 Watching for file changes with StatReloader
+INFO 2023-08-31 16:15:34,351 autoreload 14644 19388 Watching for file changes with StatReloader
+INFO 2023-08-31 16:15:37,194 views 14644 1324 index page log
+INFO 2023-08-31 16:15:37,195 basehttp 14644 1324 "GET / HTTP/1.1" 200 40
+WARNING 2023-08-31 16:15:50,733 log 14644 1324 Not Found: /cube
+WARNING 2023-08-31 16:15:50,734 basehttp 14644 1324 "GET /cube HTTP/1.1" 404 2636
+INFO 2023-08-31 16:17:25,507 autoreload 14644 19388 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\seminar_1\urls.py changed, reloading.
+INFO 2023-08-31 16:17:26,075 autoreload 20412 11912 Watching for file changes with StatReloader
+INFO 2023-08-31 16:17:30,443 autoreload 15872 12036 Watching for file changes with StatReloader
+WARNING 2023-08-31 16:17:35,163 log 15872 4580 Not Found: /cube
+WARNING 2023-08-31 16:17:35,164 basehttp 15872 4580 "GET /cube HTTP/1.1" 404 2636
+WARNING 2023-08-31 16:17:51,178 log 15872 4580 Not Found: /cube
+WARNING 2023-08-31 16:17:51,179 basehttp 15872 4580 "GET /cube HTTP/1.1" 404 2636
+WARNING 2023-08-31 16:19:58,041 log 15872 4580 Not Found: /seminar_1/cube
+WARNING 2023-08-31 16:19:58,041 basehttp 15872 4580 "GET /seminar_1/cube HTTP/1.1" 404 3112
+INFO 2023-08-31 16:20:12,670 autoreload 15872 12036 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\seminar_1\urls.py changed, reloading.
+INFO 2023-08-31 16:20:13,330 autoreload 16748 12388 Watching for file changes with StatReloader
+INFO 2023-08-31 16:20:14,771 basehttp 16748 18688 "GET /seminar_1/cube HTTP/1.1" 301 0
+INFO 2023-08-31 16:20:14,774 basehttp 16748 9468 "GET /seminar_1/cube/ HTTP/1.1" 200 1
+INFO 2023-08-31 16:20:16,049 basehttp 16748 9468 "GET /seminar_1/cube/ HTTP/1.1" 200 1
+INFO 2023-08-31 16:20:17,005 basehttp 16748 9468 "GET /seminar_1/cube/ HTTP/1.1" 200 1
+INFO 2023-08-31 16:20:17,951 basehttp 16748 9468 "GET /seminar_1/cube/ HTTP/1.1" 200 1
+INFO 2023-08-31 16:20:18,874 basehttp 16748 9468 "GET /seminar_1/cube/ HTTP/1.1" 200 1
+INFO 2023-08-31 16:20:19,748 basehttp 16748 9468 "GET /seminar_1/cube/ HTTP/1.1" 200 1
+INFO 2023-08-31 16:20:31,401 basehttp 16748 9468 "GET /seminar_1/rand_num HTTP/1.1" 301 0
+INFO 2023-08-31 16:20:31,413 basehttp 16748 12344 "GET /seminar_1/rand_num/ HTTP/1.1" 200 2
+INFO 2023-08-31 16:20:33,488 basehttp 16748 12344 "GET /seminar_1/rand_num/ HTTP/1.1" 200 2
+INFO 2023-08-31 16:20:33,916 basehttp 16748 12344 "GET /seminar_1/rand_num/ HTTP/1.1" 200 2
+INFO 2023-08-31 16:20:34,289 basehttp 16748 12344 "GET /seminar_1/rand_num/ HTTP/1.1" 200 2
+INFO 2023-08-31 16:20:34,653 basehttp 16748 12344 "GET /seminar_1/rand_num/ HTTP/1.1" 200 2
+INFO 2023-08-31 16:20:35,063 basehttp 16748 12344 "GET /seminar_1/rand_num/ HTTP/1.1" 200 2
+INFO 2023-09-01 16:08:48,503 autoreload 2948 17892 Watching for file changes with StatReloader
+INFO 2023-09-01 16:08:54,933 views 2948 4944 index page log
+INFO 2023-09-01 16:08:54,978 basehttp 2948 4944 "GET / HTTP/1.1" 200 40
+WARNING 2023-09-01 16:08:55,170 log 2948 4944 Not Found: /favicon.ico
+WARNING 2023-09-01 16:08:55,194 basehttp 2948 4944 "GET /favicon.ico HTTP/1.1" 404 2762
+INFO 2023-09-01 16:09:10,493 basehttp 2948 21100 "GET /hw_1/about HTTP/1.1" 301 0
+INFO 2023-09-01 16:09:10,498 basehttp 2948 20828 "GET /hw_1/about/ HTTP/1.1" 200 31
+WARNING 2023-09-01 16:09:18,462 log 2948 20828 Not Found: /hw_1/
+WARNING 2023-09-01 16:09:18,463 basehttp 2948 20828 "GET /hw_1/ HTTP/1.1" 404 2983
