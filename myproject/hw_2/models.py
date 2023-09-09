@@ -66,13 +66,13 @@ class Product(models.Model):
 
 
 class Order(models.Model):
-    client = models.ForeignKey(Client, on_delete=models.CASCADE)
+    customer = models.ForeignKey(Client, on_delete=models.CASCADE)
     products = models.ManyToManyField(Product)
     total_price = models.DecimalField(max_digits=8, decimal_places=2)
     date_order = models.DateField(auto_now_add=True)
 
     def __str__(self):
-        return f'Client: {self.client}, ' \
+        return f'Client: {self.customer}, ' \
                f'products: {self.products}, ' \
                f'total_price: {self.total_price}, ' \
                f'date_order: {self.date_order}'

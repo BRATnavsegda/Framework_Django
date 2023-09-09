@@ -46,3 +46,21 @@ INFO 2023-09-01 16:09:10,493 basehttp 2948 21100 "GET /hw_1/about HTTP/1.1" 301 
 INFO 2023-09-01 16:09:10,498 basehttp 2948 20828 "GET /hw_1/about/ HTTP/1.1" 200 31
 WARNING 2023-09-01 16:09:18,462 log 2948 20828 Not Found: /hw_1/
 WARNING 2023-09-01 16:09:18,463 basehttp 2948 20828 "GET /hw_1/ HTTP/1.1" 404 2983
+INFO 2023-09-07 15:26:35,882 autoreload 7268 17496 Watching for file changes with StatReloader
+INFO 2023-09-07 15:27:18,778 autoreload 7268 17496 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_3\urls.py changed, reloading.
+INFO 2023-09-07 15:27:23,162 autoreload 15892 7212 Watching for file changes with StatReloader
+INFO 2023-09-07 15:29:39,002 autoreload 23488 24396 Watching for file changes with StatReloader
+INFO 2023-09-07 15:31:01,495 autoreload 12004 18212 Watching for file changes with StatReloader
+INFO 2023-09-07 15:31:06,356 views 12004 4560 index page log
+INFO 2023-09-07 15:31:06,398 basehttp 12004 4560 "GET / HTTP/1.1" 200 40
+WARNING 2023-09-07 15:31:06,680 log 12004 4560 Not Found: /favicon.ico
+WARNING 2023-09-07 15:31:06,689 basehttp 12004 4560 "GET /favicon.ico HTTP/1.1" 404 2872
+INFO 2023-09-07 15:31:36,769 basehttp 12004 5992 "GET /lecture_3 HTTP/1.1" 301 0
+INFO 2023-09-07 15:31:36,794 basehttp 12004 15088 "GET /lecture_3/ HTTP/1.1" 200 151
+INFO 2023-09-09 13:49:28,822 autoreload 21968 9680 Watching for file changes with StatReloader
+WARNING 2023-09-09 13:49:34,442 log 21968 13868 Not Found: /favicon.ico
+WARNING 2023-09-09 13:49:34,498 basehttp 21968 13868 "GET /favicon.ico HTTP/1.1" 404 2872
+INFO 2023-09-09 13:49:43,620 basehttp 21968 23876 "GET /lecture_3/if HTTP/1.1" 301 0
+INFO 2023-09-09 13:49:43,634 basehttp 21968 21908 "GET /lecture_3/if/ HTTP/1.1" 200 326
+INFO 2023-09-09 13:50:55,214 basehttp 21968 14744 "GET /lecture_3/if/ HTTP/1.1" 200 330
+INFO 2023-09-09 13:51:28,476 basehttp 21968 14744 "GET /lecture_3/if/ HTTP/1.1" 200 339

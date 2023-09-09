@@ -90,6 +90,7 @@ INSTALLED_APPS = [
     'hw_1',
     'lecture_2',
     'hw_2',
+    'lecture_3',
 ]
 
 MIDDLEWARE = [
@@ -107,7 +108,9 @@ ROOT_URLCONF = 'myproject.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+                BASE_DIR / 'templates',
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
