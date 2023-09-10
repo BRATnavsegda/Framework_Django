@@ -91,6 +91,7 @@ INSTALLED_APPS = [
     'lecture_2',
     'hw_2',
     'lecture_3',
+    'hw_3',
 ]
 
 MIDDLEWARE = [

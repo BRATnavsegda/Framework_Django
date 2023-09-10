@@ -24,4 +24,5 @@ urlpatterns = [
     path('seminar_1/', include('seminar_1.urls')),
     path('hw_1/', include('hw_1.urls')),
     path('lecture_3/', include('lecture_3.urls')),
+    path('hw_3/', include('hw_3.urls')),
 ]
