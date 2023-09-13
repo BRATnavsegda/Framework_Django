@@ -3,7 +3,7 @@ from datetime import datetime
 from django.shortcuts import render
 from django.views.generic import DetailView, ArchiveIndexView, YearArchiveView, MonthArchiveView, WeekArchiveView
 
-from myproject.hw_3 import models
+from . import models
 
 
 

@@ -64,3 +64,45 @@ INFO 2023-09-09 13:49:43,620 basehttp 21968 23876 "GET /lecture_3/if HTTP/1.1" 3
 INFO 2023-09-09 13:49:43,634 basehttp 21968 21908 "GET /lecture_3/if/ HTTP/1.1" 200 326
 INFO 2023-09-09 13:50:55,214 basehttp 21968 14744 "GET /lecture_3/if/ HTTP/1.1" 200 330
 INFO 2023-09-09 13:51:28,476 basehttp 21968 14744 "GET /lecture_3/if/ HTTP/1.1" 200 339
+INFO 2023-09-10 15:23:34,579 autoreload 15600 5964 Watching for file changes with StatReloader
+INFO 2023-09-10 15:25:49,204 autoreload 15600 5964 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\hw_3\views.py changed, reloading.
+INFO 2023-09-10 15:25:49,872 autoreload 6168 13204 Watching for file changes with StatReloader
+INFO 2023-09-10 15:25:56,337 views 6168 14748 index page log
+INFO 2023-09-10 15:25:56,342 basehttp 6168 14748 "GET / HTTP/1.1" 200 40
+WARNING 2023-09-10 15:25:56,461 log 6168 14748 Not Found: /favicon.ico
+WARNING 2023-09-10 15:25:56,468 basehttp 6168 14748 "GET /favicon.ico HTTP/1.1" 404 3087
+WARNING 2023-09-10 15:26:20,566 log 6168 18264 Not Found: /lecture_4
+WARNING 2023-09-10 15:26:20,567 basehttp 6168 18264 "GET /lecture_4 HTTP/1.1" 404 3081
+WARNING 2023-09-10 15:26:45,310 log 6168 18264 Not Found: /lecture_4/
+WARNING 2023-09-10 15:26:45,311 basehttp 6168 18264 "GET /lecture_4/ HTTP/1.1" 404 3346
+INFO 2023-09-10 15:26:58,714 basehttp 6168 18264 "GET /lecture_4/forms HTTP/1.1" 301 0
+INFO 2023-09-10 15:26:58,753 basehttp 6168 18388 "GET /lecture_4/forms/ HTTP/1.1" 200 1422
+INFO 2023-09-10 15:34:20,031 autoreload 6168 13204 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\forms.py changed, reloading.
+INFO 2023-09-10 15:34:20,817 autoreload 9596 5560 Watching for file changes with StatReloader
+INFO 2023-09-10 15:37:12,241 autoreload 9596 5560 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\forms.py changed, reloading.
+INFO 2023-09-10 15:37:12,973 autoreload 4296 3172 Watching for file changes with StatReloader
+INFO 2023-09-10 15:40:54,691 autoreload 4296 3172 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\views.py changed, reloading.
+INFO 2023-09-10 15:40:55,363 autoreload 15716 14216 Watching for file changes with StatReloader
+INFO 2023-09-10 15:40:59,719 basehttp 15716 16808 "GET /lecture_4/forms/ HTTP/1.1" 200 2043
+INFO 2023-09-10 15:44:41,815 autoreload 15716 14216 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\forms.py changed, reloading.
+INFO 2023-09-10 15:44:42,562 autoreload 19716 6168 Watching for file changes with StatReloader
+INFO 2023-09-10 15:44:47,359 basehttp 19716 13840 "GET /lecture_4/forms/ HTTP/1.1" 200 2043
+INFO 2023-09-10 15:53:23,969 autoreload 19716 6168 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\forms.py changed, reloading.
+INFO 2023-09-10 15:53:24,895 autoreload 18472 20364 Watching for file changes with StatReloader
+INFO 2023-09-10 16:00:15,840 autoreload 18472 20364 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\models.py changed, reloading.
+INFO 2023-09-10 16:00:16,729 autoreload 13840 12532 Watching for file changes with StatReloader
+INFO 2023-09-10 16:11:00,118 autoreload 13816 19936 Watching for file changes with StatReloader
+INFO 2023-09-10 16:11:12,803 basehttp 13816 13328 "GET /lecture_4/user HTTP/1.1" 301 0
+INFO 2023-09-10 16:11:12,831 basehttp 13816 8584 "GET /lecture_4/user/ HTTP/1.1" 200 897
+INFO 2023-09-10 16:11:26,303 basehttp 13816 8584 "POST /lecture_4/user/ HTTP/1.1" 200 1038
+INFO 2023-09-10 16:12:27,107 basehttp 13816 8584 "POST /lecture_4/user/ HTTP/1.1" 200 958
+INFO 2023-09-10 16:18:55,384 autoreload 13816 19936 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-09-10 16:18:56,239 autoreload 9028 1064 Watching for file changes with StatReloader
+INFO 2023-09-10 16:21:54,557 autoreload 9028 1064 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\views.py changed, reloading.
+INFO 2023-09-10 16:21:55,345 autoreload 16488 17892 Watching for file changes with StatReloader
+INFO 2023-09-10 16:24:35,617 autoreload 16488 17892 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\views.py changed, reloading.
+INFO 2023-09-10 16:24:36,446 autoreload 2400 3240 Watching for file changes with StatReloader
+INFO 2023-09-10 16:26:44,082 autoreload 2400 3240 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\views.py changed, reloading.
+INFO 2023-09-10 16:26:44,881 autoreload 1904 9800 Watching for file changes with StatReloader
+INFO 2023-09-10 16:27:50,416 autoreload 1904 9800 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\lecture_4\urls.py changed, reloading.
+INFO 2023-09-10 16:27:51,207 autoreload 12020 18108 Watching for file changes with StatReloader
