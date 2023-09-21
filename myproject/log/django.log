@@ -785,3 +785,87 @@ INFO 2023-09-14 17:30:08,586 basehttp 10400 22012 "GET /admin/jsi18n/ HTTP/1.1" 
 INFO 2023-09-14 17:30:48,343 basehttp 10400 22012 "GET /admin/hw_4/order/add/ HTTP/1.1" 200 14418
 INFO 2023-09-14 17:30:48,372 basehttp 10400 22012 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
 INFO 2023-09-14 17:31:03,244 basehttp 10400 22012 "GET /admin/hw_4/order/1/change/ HTTP/1.1" 200 15287
+INFO 2023-09-17 16:06:48,835 autoreload 10724 20576 Watching for file changes with StatReloader
+INFO 2023-09-17 16:06:53,273 views 10724 18848 index page log
+INFO 2023-09-17 16:06:53,390 basehttp 10724 18848 "GET / HTTP/1.1" 200 40
+WARNING 2023-09-17 16:06:53,592 log 10724 18848 Not Found: /favicon.ico
+WARNING 2023-09-17 16:06:53,596 basehttp 10724 18848 "GET /favicon.ico HTTP/1.1" 404 13321
+WARNING 2023-09-17 16:06:55,818 log 10724 19448 Not Found: /favicon.ico
+WARNING 2023-09-17 16:06:55,819 basehttp 10724 19448 "GET /favicon.ico HTTP/1.1" 404 13321
+INFO 2023-09-17 16:07:11,387 views 10724 4804 index page log
+INFO 2023-09-17 16:07:11,410 basehttp 10724 4804 "GET / HTTP/1.1" 200 40
+INFO 2023-09-17 16:07:25,951 views 10724 4804 index page log
+INFO 2023-09-17 16:07:25,973 basehttp 10724 4804 "GET / HTTP/1.1" 200 40
+INFO 2023-09-17 16:07:49,415 views 10724 4804 index page log
+INFO 2023-09-17 16:07:49,438 basehttp 10724 4804 "GET / HTTP/1.1" 200 40
+INFO 2023-09-17 16:08:13,715 views 10724 21084 index page log
+INFO 2023-09-17 16:08:13,732 basehttp 10724 21084 "GET / HTTP/1.1" 200 40
+WARNING 2023-09-17 16:08:13,822 log 10724 21084 Not Found: /favicon.ico
+WARNING 2023-09-17 16:08:13,823 basehttp 10724 21084 "GET /favicon.ico HTTP/1.1" 404 13321
+INFO 2023-09-17 16:08:29,508 views 10724 9188 index page log
+INFO 2023-09-17 16:08:29,528 basehttp 10724 9188 "GET / HTTP/1.1" 200 40
+INFO 2023-09-17 16:10:39,820 autoreload 10724 20576 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\myproject\settings.py changed, reloading.
+INFO 2023-09-17 16:10:40,715 autoreload 17396 20444 Watching for file changes with StatReloader
+INFO 2023-09-17 16:14:47,248 autoreload 8400 11824 Watching for file changes with StatReloader
+INFO 2023-09-17 16:15:10,383 views 8400 4976 index page log
+INFO 2023-09-17 16:15:10,430 basehttp 8400 4976 "GET / HTTP/1.1" 200 40
+INFO 2023-09-17 16:15:43,766 basehttp 8400 4976 "GET /admin/ HTTP/1.1" 200 19890
+INFO 2023-09-17 16:15:43,775 basehttp 8400 4976 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,775 basehttp 8400 10252 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,782 basehttp 8400 10252 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,783 basehttp 8400 4976 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-09-17 16:15:43,786 basehttp 8400 10252 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,794 basehttp 8400 4976 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,794 basehttp 8400 12244 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,798 basehttp 8400 18648 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,799 basehttp 8400 20516 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-09-17 16:15:43,799 basehttp 8400 20912 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-09-17 16:15:43,804 basehttp 8400 20516 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2023-09-17 16:15:43,807 basehttp 8400 20516 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2023-09-17 16:15:43,808 basehttp 8400 20912 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2023-09-17 16:16:00,163 views 8400 20912 index page log
+INFO 2023-09-17 16:16:00,186 basehttp 8400 20912 "GET / HTTP/1.1" 200 40
+INFO 2023-09-17 16:16:07,668 basehttp 8400 20912 "GET /admin/ HTTP/1.1" 200 19889
+INFO 2023-09-17 16:16:21,061 basehttp 8400 20912 "GET /__debug__/render_panel/?store_id=7aadf4b0886e4a6bba5358c4f3e9de85&panel_id=VersionsPanel HTTP/1.1" 200 761
+INFO 2023-09-17 16:17:44,075 basehttp 8400 20912 "GET /__debug__/render_panel/?store_id=7aadf4b0886e4a6bba5358c4f3e9de85&panel_id=RequestPanel HTTP/1.1" 200 2330
+INFO 2023-09-17 16:18:21,305 basehttp 8400 20912 "GET /__debug__/render_panel/?store_id=7aadf4b0886e4a6bba5358c4f3e9de85&panel_id=SQLPanel HTTP/1.1" 200 53323
+INFO 2023-09-17 16:19:24,518 basehttp 8400 20912 "GET /__debug__/render_panel/?store_id=7aadf4b0886e4a6bba5358c4f3e9de85&panel_id=StaticFilesPanel HTTP/1.1" 200 37102
+INFO 2023-09-17 16:19:43,632 basehttp 8400 20912 "GET /__debug__/render_panel/?store_id=7aadf4b0886e4a6bba5358c4f3e9de85&panel_id=TemplatesPanel HTTP/1.1" 200 77433
+INFO 2023-09-17 16:20:16,302 basehttp 8400 20912 "GET /__debug__/render_panel/?store_id=7aadf4b0886e4a6bba5358c4f3e9de85&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2023-09-17 16:20:17,314 basehttp 8400 20912 "GET /__debug__/render_panel/?store_id=7aadf4b0886e4a6bba5358c4f3e9de85&panel_id=SignalsPanel HTTP/1.1" 200 2346
+INFO 2023-09-18 00:17:17,853 autoreload 10388 5560 Watching for file changes with StatReloader
+INFO 2023-09-18 00:17:41,796 basehttp 10388 10956 "GET /lecture_6/db/ HTTP/1.1" 200 10173
+INFO 2023-09-18 00:17:41,809 basehttp 10388 9160 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-09-18 00:17:41,810 basehttp 10388 10956 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-09-18 00:17:41,819 basehttp 10388 10956 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-09-18 00:17:41,850 basehttp 10388 10956 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-09-18 00:19:32,531 basehttp 10388 10956 "GET /__debug__/render_panel/?store_id=7a52bb79f2bf4c059885af2899afe73f&panel_id=SQLPanel HTTP/1.1" 200 33301
+INFO 2023-09-18 00:20:13,389 basehttp 10388 10956 "GET /lecture_6/view/ HTTP/1.1" 200 10601
+INFO 2023-09-18 00:20:21,005 basehttp 10388 10956 "GET /__debug__/render_panel/?store_id=840caa0eedb14a2f91f7ccd26482369d&panel_id=SQLPanel HTTP/1.1" 200 36272
+INFO 2023-09-18 00:20:39,760 basehttp 10388 10956 "GET /__debug__/render_panel/?store_id=840caa0eedb14a2f91f7ccd26482369d&panel_id=ProfilingPanel HTTP/1.1" 200 45038
+INFO 2023-09-18 00:21:17,765 basehttp 10388 10956 "GET /lecture_6/template/ HTTP/1.1" 200 10585
+INFO 2023-09-18 00:21:23,031 basehttp 10388 10956 "GET /__debug__/render_panel/?store_id=643082d465ec48ef965d8d5e1b98f4f2&panel_id=SQLPanel HTTP/1.1" 200 55701
+INFO 2023-09-18 00:22:17,782 basehttp 10388 10956 "GET /__debug__/render_panel/?store_id=643082d465ec48ef965d8d5e1b98f4f2&panel_id=ProfilingPanel HTTP/1.1" 200 35030
+INFO 2023-09-18 00:24:00,061 basehttp 10388 10956 "GET /__debug__/render_panel/?store_id=643082d465ec48ef965d8d5e1b98f4f2&panel_id=HistoryPanel HTTP/1.1" 200 5820
+INFO 2023-09-18 00:24:00,066 basehttp 10388 10956 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2023-09-18 00:24:05,354 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=840caa0eedb14a2f91f7ccd26482369d&exclude_history=True HTTP/1.1" 200 11371
+INFO 2023-09-18 00:24:07,381 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=7a52bb79f2bf4c059885af2899afe73f&exclude_history=True HTTP/1.1" 200 10785
+INFO 2023-09-18 00:24:09,018 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=840caa0eedb14a2f91f7ccd26482369d&exclude_history=True HTTP/1.1" 200 11371
+INFO 2023-09-18 00:24:10,537 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=643082d465ec48ef965d8d5e1b98f4f2&exclude_history=True HTTP/1.1" 200 11375
+INFO 2023-09-18 00:24:12,722 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=840caa0eedb14a2f91f7ccd26482369d&exclude_history=True HTTP/1.1" 200 11371
+INFO 2023-09-18 00:24:13,955 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=7a52bb79f2bf4c059885af2899afe73f&exclude_history=True HTTP/1.1" 200 10785
+INFO 2023-09-18 00:24:24,001 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=840caa0eedb14a2f91f7ccd26482369d&exclude_history=True HTTP/1.1" 200 11371
+INFO 2023-09-18 00:24:24,893 basehttp 10388 10956 "GET /__debug__/history_sidebar/?store_id=643082d465ec48ef965d8d5e1b98f4f2&exclude_history=True HTTP/1.1" 200 11375
+INFO 2023-09-21 14:55:51,025 autoreload 22784 7000 Watching for file changes with StatReloader
+INFO 2023-09-21 14:55:57,168 views 22784 21608 index page log
+INFO 2023-09-21 14:55:57,235 basehttp 22784 21608 "GET / HTTP/1.1" 200 40
+WARNING 2023-09-21 14:55:57,470 log 22784 21608 Not Found: /favicon.ico
+WARNING 2023-09-21 14:55:57,471 basehttp 22784 21608 "GET /favicon.ico HTTP/1.1" 404 13874
+INFO 2023-09-21 15:00:03,832 autoreload 22784 7000 C:\Users\TESO\Desktop\Lessions\Framework Django\myproject\myproject\urls.py changed, reloading.
+INFO 2023-09-21 15:00:04,570 autoreload 12596 23384 Watching for file changes with StatReloader
+INFO 2023-09-21 15:07:46,194 autoreload 20952 15740 Watching for file changes with StatReloader
+INFO 2023-09-21 15:07:50,938 basehttp 20952 15468 "GET / HTTP/1.1" 200 12289
+INFO 2023-09-21 15:07:50,961 basehttp 20952 15468 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-09-21 15:07:50,961 basehttp 20952 18152 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-09-21 15:07:50,980 basehttp 20952 18152 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-09-21 15:07:51,002 basehttp 20952 18152 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527

@@ -21,7 +21,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('myapp.urls')),
+    path('', include('lecture_4.urls')),
     path('myapp/', include('myapp.urls')),
     path('seminar_1/', include('seminar_1.urls')),
     path('hw_1/', include('hw_1.urls')),
@@ -29,6 +29,8 @@ urlpatterns = [
     path('hw_3/', include('hw_3.urls')),
     path('lecture_4/', include('lecture_4.urls')),
     path('hw_4/', include('hw_4.urls')),
+    # path('__debug__/', include('debug_toolbar.urls')),
+    path('lecture_6/', include('lecture_6.urls')),
 ]
 
 if settings.DEBUG:
